@@ -1,1 +1,0 @@
-{"version":3,"file":"static/css/main.992c1c3f.css","mappings":"AAIA,UAHE,qBAMF,CAHA,KACE,iBAEF","sources":["App.css"],"sourcesContent":["body {\n  background-color: grey;\n}\n\n.App {\n  text-align: center;\n  background-color: grey;\n}\n"],"names":[],"sourceRoot":""}
