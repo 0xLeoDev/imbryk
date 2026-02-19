@@ -1,8 +1,45 @@
-.App {
-  text-align: center;
-  background-color: grey;
+body {
+  background-color: bisque;
+  height: 100svh;
+  background: radial-gradient(circle at 30% 30%, #cbb396, #b79c7c, #9e8466);
 }
 
-body {
-  background-color: grey;
+.page {
+  text-align: center;
+  width: min(100% - 30px, 800px);
+  margin-inline: auto;
+  height: 100svh;
+}
+.header {
+  width: 100%;
+  height: 100px;
+  /* background-color: aqua; */
+}
+.content {
+  /* background-color: bisque; */
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  height: 70%;
+}
+
+.logo {
+  width: 120px;
+  padding: 10px;
+  fill: #1c1c1c;
+}
+
+.message {
+  display: flex;
+  flex-direction: column;
+  align-self: center;
+  padding: 20px;
+}
+.footer {
+  margin: 0;
+  width: 100%;
+  height: 100px;
+  /* background-color: aqua; */
 }
