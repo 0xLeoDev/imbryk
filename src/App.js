@@ -10,7 +10,7 @@ export default function App() {
       </div>
       <div className="content">
         <div className="message">
-          <h2>Witamy na oficjalnej stronie Fundacji Imbryk Ikigai!</h2>
+          <h2>Witamy na oficjalnej stronie Fundacji Imbryk&nbsp;Ikigai!</h2>
           <p>
             Strona jest obecnie w trakcie przygotowywania. <br /> Wkrótce
             wrócimy z pełną wersją.
